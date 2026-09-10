@@ -1,0 +1,4 @@
+snake
+*.o
+*.dSYM/
+.DS_Store

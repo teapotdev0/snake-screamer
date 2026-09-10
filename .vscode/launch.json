@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug raylib",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/game",
+            "cwd": "${workspaceFolder}",
+            "MIMode": "lldb",
+            "preLaunchTask": "build raylib"
+        }
+    ]
+}
